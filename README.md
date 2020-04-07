@@ -6,8 +6,8 @@ https://docs.google.com/presentation/d/1UVuxdmRKbChNkhh9_IaWHQcjQ-vR7-jKxOplK2Km
 
 Sunes beskrivelse: 
 
-Project Assignment B
-The deliverables for the Final project are
+# Project Assignment B
+## The deliverables for the Final project are
 
 A website with your visualizations an accompanying text. I recommend you structure it as a kind of narrative data story (cf. the Segel paper we read during Lecture 7 and 8). The website should tell the story about the data that you're interested in getting across. In the simplest, most minimalist case, the website can be a very nice Jupyter Notebook hosted on nbviewer.
 
@@ -18,13 +18,13 @@ The idea is that you can create much more complex, dynamic and interactive analy
 
 An explainer Jupyter Notebook. The explainer notebook should contain all the behind the scenes data-analysis stuff, details on the dataset, why you've selected these particular visualizations, explanations methodology, etc.
 
-More about the website
+#### More about the website
 The main point of the website is to present your idea/analyses to the world in a way that showcases your use of what you've learned in class. The website should be self-contained and tell the story without the need for the details in the explainer notebook (the purpose of the explainer notebook is to provide additional details for interested/scientific readers).
 
-More on the explainer notebook
+#### More on the explainer notebook
 The notebook should contain your analysis and code. Please structure it into the following sections
 
-Motivation.
+### Motivation.
 - What is your dataset?
 - Why did you choose this/these particular dataset(s)?
 - What was your goal for the end user's experience?
@@ -42,11 +42,11 @@ Data Analysis
 - Explain the visualizations you've chosen.
 - Why are they right for the story you want to tell?
 
-Discussion. Think critically about your creation
+### Discussion. Think critically about your creation
 - What went well?,
 - What is still missing? What could be improved?, Why?
 
-Contributions. Who did what?
+### Contributions. Who did what?
 - You should write (just briefly) which group member was the main responsible for which elements of the assignment. (I want you guys to understand every part of the assignment, but usually there is someone who took lead role on certain portions of the work. That's what you should explain).
 - It is not OK simply to write "All group members contributed equally".
 
