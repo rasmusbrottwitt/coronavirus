@@ -32,7 +32,7 @@ The notebook should contain your analysis and code. Please structure it into the
 - Write about your choices in data cleaning and preprocessing
 - Write a short section that discusses the dataset stats, containing key points/plots from your exploratory data analysis.
 
-Data Analysis
+### Data Analysis
 - Describe your data analysis and explain what you've learned about the dataset.
 - If relevant, talk about your machine-learning.
 - Genre. Which genre of data story did you use?
