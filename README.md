@@ -2,9 +2,7 @@
 Kasper and Rasmus' final project for data science
 
 Vores slides om scoping af projektet er her: 
-https://docs.google.com/presentation/d/1UVuxdmRKbChNkhh9_IaWHQcjQ-vR7-jKxOplK2KmlQY/edit#slide=id.g7f922f488f_0_15
-
-Sunes beskrivelse: 
+https://docs.google.com/presentation/d/1UVuxdmRKbChNkhh9_IaWHQcjQ-vR7-jKxOplK2KmlQY/edit#slide=id.g7f922f488f_0_15 
 
 # Project Assignment B
 ## The deliverables for the Final project are
