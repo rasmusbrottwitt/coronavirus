@@ -23,7 +23,13 @@ Given the massive increase in cases and mortality rate, it makes sense on paper 
 ### Spread and lockdown in different countries
 The spread in different countries, and especially also the number of deaths, appear to be very different. To gain an understanding of why this is the case, let's look into the rate that each country locked down in compared to the spread. 
 
-<iframe src="Charts/webpage007.html" width="1280" ></iframe>
+<iframe 
+        src="Charts/webpage007.html"
+        frameborder="0"
+        scrolling="no" 
+        style="overflow:hidden;height:100%;width:100%" 
+        height="100%" 
+width="100%"></iframe>
 
 We see how the virus deaths exploded suddenly in US and that US clearly is on the red curve. In comparison is countries as canada currently staying at the green curve. The dashed vertical lines indicates the lockdown date for each country. We see a huge different between Denmark and Canada that makes national lockdown before any deaths has arise, and clearly are on the green curve, compared to US, UK, and Italy which all made national lochdown pretty late when above 300 deaths had happened and clearly are on the red curve. Especially the United States seem to have exploded in number of casualties. 
 
