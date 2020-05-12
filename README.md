@@ -12,7 +12,7 @@ In that way, the Corona Virus is more than just a disease - it is a shift in how
 
 We will look at the spread of the virus itself and the fear and awareness following, to see how and why the countries have had to lock down. Following this, we will look into the American Economy and see how it has hit - and why it might be a lot different than you expect. 
 
-### The spread of Corona Virus
+## The spread of Corona Virus
 The Corona Virus started as a new disease in China, and became more and more reknown to the world as stories and images spread. After reaching Italy in February, it stared spreading to the rest of the world and was declared a pandemic in mid March. It's growth has been rapid ever since then. 
 
 
