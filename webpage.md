@@ -2,7 +2,9 @@
 
 2020 has been a year that will forever be remembered for the COVID-19 pandemic. It is not the first pandemic in world histori to say the least, but it is the first time it has happened to our modern society. We have the opportunity to track the spread to a very low detail, and at the same time see and uncover it's impact on all aspects of society. 
 
-In that way, the Corona Virus is more than just a disease - it is a shift in how our world works. We will start out by looking at how the virus has spread and what is in store in the near future, regarding casualties and contamination. Then, we will try to uncover it's impact on some of the ground pillars of society, being social media and the economy - and in this instance specifically Twitter and the American Economy. 
+In that way, the Corona Virus is more than just a disease - it is a shift in how our world works, and has the potential to  hit the economy really hard especially. The reasoning for this is more complex - we have to understand how the virus spreads physically and psyhologically, and then look at how it has impacted the economy. 
+
+We will look at the spread of the virus itself and the fear and awareness following, to see how and why the countries have had to lock down. Following this, we will look into the American Economy and see how it has hit - and why it might be a lot different than you expect. 
 
 ### The spread of Corona Virus
 The Corona Virus started as a new disease in China, and became more and more reknown to the world as stories and images spread. After reaching Italy in February, it stared spreading to the rest of the world and was declared a pandemic in mid March. It's growth has been rapid ever since then. 
@@ -21,7 +23,7 @@ However, since the outbreak as a Pandemic, the mortality rate has actually incre
 
 FIG 3: COVID 19 MORTALITY RATE
 
-Given the massive increase in cases and mortality rate, it makes sense to lock down the world in some degree. 
+Given the massive increase in cases and mortality rate, it makes sense on paper to lock down the world in some degree. However, some countries have deffinetly hesitated - a bit lock down will inevitably have major consequences on the economy. So, what effect did these lockdowns have - and did the timing matter? 
 
 ### Spread and lockdown in different countries
 The spread in different countries, and especially also the number of deaths, appear to be very different. To gain an understanding of why this is the case, let's look into the rate that each country locked down in compared to the spread. 
@@ -54,5 +56,18 @@ BOKEH 4
 To understand how the pandemic will continue to spread, we have applied prediction models to the data gathered, and predicting how the spread looks the next couple of days. 
 
 ### Potential reopening
-Following the lockdown and the flattening of the curves, the natural next step would be to look at when to open up again - and to do this we can look at the true number of infected. The average time from infection to death is 17 days. This means that if the true mortality rate is 1% then if 1 person dies today was there 100 infected 17 days ago. This information can together with the avg. growth rate for COVID19 be used to give an estimate of the true number of infected in each country.
+Following the lockdown and the flattening of the curves, the natural next step would be to look at when to open up again. For every day the country is closed, money is slipping out of the economies, and governments have to write big checks to keep the wheels going for companies and individuals. 
+
+To do this we can look at the true number of infected. The average time from infection to death is 17 days. This means that if the true mortality rate is 1% then if 1 person dies today was there 100 infected 17 days ago. This information can together with the avg. growth rate for COVID19 be used to give an estimate of the true number of infected in each country.
+
+FIG True Number of Infected 
+
+The charts clearly show why it would be very interstring to know the actual mortality rate. Relatively small changes is the mortality rate assumption from 3% to 1%  would mean that many many more million people would have had the infection. This is very important information to know when planning a reopening of a country like US.
+
+### Summary
+We have seen that the disease spread rapidly, with the death rate following and even increasing a bit, as the disease became pandemic. However, there is a large uncertanity regarding these numbers, and the difference between reported and true numbers might be big. 
+
+We have also discovered how lock downs are a great idea to stop the disease, and faster actions give great results. Before looking into the costs of these lock downs, let us look into the social media awareness to see how the people have reacted to this (to our generations) new phenomenon. 
+
+## Social Media Data from Twitter
 
