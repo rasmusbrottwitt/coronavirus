@@ -172,7 +172,7 @@ UNEMPLOYMENT 1
 
 Looking at the unemployment rate, it seems like the highest spikes are around the financial crisis and back in the 1980's. 
 
-But zooming in on 2018-2020 shows that the most recent datapoint is just too close to the border to see
+But zooming in on 2019-2020 shows that the most recent datapoint is just too close to the border to see
 
 UNEMPLOYMENT 2
 
