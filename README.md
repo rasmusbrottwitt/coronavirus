@@ -2,7 +2,7 @@
 
 <iframe 
         src="test.html"
-        width="800" height="500"
+        width="1100" height="500"
         frameBorder="0"
 ></iframe>
 
