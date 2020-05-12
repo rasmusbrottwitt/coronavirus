@@ -1,8 +1,10 @@
-[ ] Hjemmeside med alle grafer, gifer og billeder
-[ ] Notebook læst igennem og opdateret
-[ ] Tjek **svar** på alle spørgsmål 
-[ ] Referencer 
-[ ] Screenshot af interaktive ting som ikke vil virke når han kigger det igennem
-[ ] Clean up GitHub
+### NICE TO DO 
+- [ ] Hjemmeside med alle grafer, gifer og billeder
+- [ ] Notebook læst igennem og opdateret
+- [ ] Tjek **svar** på alle spørgsmål 
+- [ ] Referencer 
+- [ ] Screenshot af interaktive ting som ikke vil virke når han kigger det igennem
+- [ ] Clean up GitHub
 
-[ ] Pizza
+### ESSENTIAL
+- [ ] Pizza
