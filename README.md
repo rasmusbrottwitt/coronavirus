@@ -1,5 +1,10 @@
 # Covid 19 and the world 
 
+<iframe 
+        src="test.html"
+        style="width:100%"
+></iframe>
+
 2020 has been a year that will forever be remembered for the COVID-19 pandemic. It is not the first pandemic in world histori to say the least, but it is the first time it has happened to our modern society. We have the opportunity to track the spread to a very low detail, and at the same time see and uncover it's impact on all aspects of society. 
 
 In that way, the Corona Virus is more than just a disease - it is a shift in how our world works, and has the potential to  hit the economy really hard especially. The reasoning for this is more complex - we have to understand how the virus spreads physically and psyhologically, and then look at how it has impacted the economy. 
@@ -23,10 +28,7 @@ Given the massive increase in cases and mortality rate, it makes sense on paper 
 ### Spread and lockdown in different countries
 The spread in different countries, and especially also the number of deaths, appear to be very different. To gain an understanding of why this is the case, let's look into the rate that each country locked down in compared to the spread. 
 
-<iframe 
-        src="Charts/webpage007.html"
-        style="width:100%"
-></iframe>
+
 
 We see how the virus deaths exploded suddenly in US and that US clearly is on the red curve. In comparison is countries as canada currently staying at the green curve. The dashed vertical lines indicates the lockdown date for each country. We see a huge different between Denmark and Canada that makes national lockdown before any deaths has arise, and clearly are on the green curve, compared to US, UK, and Italy which all made national lochdown pretty late when above 300 deaths had happened and clearly are on the red curve. Especially the United States seem to have exploded in number of casualties. 
 
