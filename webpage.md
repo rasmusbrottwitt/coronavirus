@@ -11,6 +11,16 @@ The Corona Virus started as a new disease in China, and became more and more rek
 
 FIG 1 - COVID 10 WORLD WIDE DEVELOPMENT
 
+%%html 
+<iframe src="flowers.html"
+    sandbox="allow-same-origin allow-scripts"
+    width="100%"
+    height="500"
+    scrolling="no"
+    seamless="seamless"
+    frameborder="0">
+</iframe>
+
 The reason for the massive growth is very clear when plotting out deaths world wide - the spread went from one country to globally, with the deathrates following. 
 
 FIG 5 - World Map gif
