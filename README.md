@@ -9,7 +9,7 @@ We will look at the spread of the virus itself and the fear and awareness follow
 ### The spread of Corona Virus
 The Corona Virus started as a new disease in China, and became more and more reknown to the world as stories and images spread. After reaching Italy in February, it stared spreading to the rest of the world and was declared a pandemic in mid March. It's growth has been rapid ever since then. 
 
-<iframe src="Charts/webpage001.png" width=100% height=100% ></iframe>
+<iframe src="Charts/webpage001.png" scrolling = 'no' width=100% height=100% ></iframe>
 
 The reason for the massive growth is very clear when plotting out deaths world wide - the spread went from one country to globally, with the deathrates following. 
 
