@@ -1,51 +1,73 @@
-# Social Data Science 2020 Final Project
-Kasper and Rasmus' final project for data science
+# Covid 19 and the world 
 
-Vores slides om scoping af projektet er her: 
-https://docs.google.com/presentation/d/1UVuxdmRKbChNkhh9_IaWHQcjQ-vR7-jKxOplK2KmlQY/edit#slide=id.g7f922f488f_0_15 
+2020 has been a year that will forever be remembered for the COVID-19 pandemic. It is not the first pandemic in world histori to say the least, but it is the first time it has happened to our modern society. We have the opportunity to track the spread to a very low detail, and at the same time see and uncover it's impact on all aspects of society. 
 
-# Project Assignment B
-## The deliverables for the Final project are
+In that way, the Corona Virus is more than just a disease - it is a shift in how our world works, and has the potential to  hit the economy really hard especially. The reasoning for this is more complex - we have to understand how the virus spreads physically and psyhologically, and then look at how it has impacted the economy. 
 
-A website with your visualizations an accompanying text. I recommend you structure it as a kind of narrative data story (cf. the Segel paper we read during Lecture 7 and 8). The website should tell the story about the data that you're interested in getting across. In the simplest, most minimalist case, the website can be a very nice Jupyter Notebook hosted on nbviewer.
+We will look at the spread of the virus itself and the fear and awareness following, to see how and why the countries have had to lock down. Following this, we will look into the American Economy and see how it has hit - and why it might be a lot different than you expect. 
 
-It should contain visualizations to let the reader explore the data that you're interested in getting across. It is a plus if some of them are interactive.
-Your analysis behind the scenes can be technical and as advanced as you like (in fact the goal is to show you can combine data analysis, machine learning, and data visualization), but the website itself should not be technical, but rather aim at using visualization and explanation to get your data driven insights across to a non-scientific reader.
+### The spread of Corona Virus
+The Corona Virus started as a new disease in China, and became more and more reknown to the world as stories and images spread. After reaching Italy in February, it stared spreading to the rest of the world and was declared a pandemic in mid March. It's growth has been rapid ever since then. 
 
-The idea is that you can create much more complex, dynamic and interactive analysis (and visualizations) using the possibilities available when you're creating a website. So it is a way for you to present your work in a way that everyone can understand it (like something you could show your parents).
+FIG 1 - COVID 10 WORLD WIDE DEVELOPMENT
 
-An explainer Jupyter Notebook. The explainer notebook should contain all the behind the scenes data-analysis stuff, details on the dataset, why you've selected these particular visualizations, explanations methodology, etc.
+The reason for the massive growth is very clear when plotting out deaths world wide - the spread went from one country to globally, with the deathrates following. 
 
-#### More about the website
-The main point of the website is to present your idea/analyses to the world in a way that showcases your use of what you've learned in class. The website should be self-contained and tell the story without the need for the details in the explainer notebook (the purpose of the explainer notebook is to provide additional details for interested/scientific readers).
+FIG 5 - World Map gif
 
-#### More on the explainer notebook
-The notebook should contain your analysis and code. Please structure it into the following sections
+The mortality rate appears to have been close to contant since the spread, which is clear in a logarithmic view of the relationship between confirmed cases and deaths. 
 
-### Motivation.
-- What is your dataset?
-- Why did you choose this/these particular dataset(s)?
-- What was your goal for the end user's experience?
-- Basic stats. Let's understand the dataset better
-- Write about your choices in data cleaning and preprocessing
-- Write a short section that discusses the dataset stats, containing key points/plots from your exploratory data analysis.
+FIG 2: LOGARITHMIC COVID19 WORLD WIDE DEVELOPMENT
 
-### Data Analysis
-- Describe your data analysis and explain what you've learned about the dataset.
-- If relevant, talk about your machine-learning.
-- Genre. Which genre of data story did you use?
-- Which tools did you use from each of the 3 categories of Visual Narrative (Figure 7 in Segal and Heer). Why?
-- Which tools did you use from each of the 3 categories of Narrative Structure (Figure 7 in Segal and Heer). Why?
-- Visualizations.
-- Explain the visualizations you've chosen.
-- Why are they right for the story you want to tell?
+However, since the outbreak as a Pandemic, the mortality rate has actually increased from 2-3% to around 6%
 
-### Discussion. Think critically about your creation
-- What went well?,
-- What is still missing? What could be improved?, Why?
+FIG 3: COVID 19 MORTALITY RATE
 
-### Contributions. Who did what?
-- You should write (just briefly) which group member was the main responsible for which elements of the assignment. (I want you guys to understand every part of the assignment, but usually there is someone who took lead role on certain portions of the work. That's what you should explain).
-- It is not OK simply to write "All group members contributed equally".
+Given the massive increase in cases and mortality rate, it makes sense on paper to lock down the world in some degree. However, some countries have deffinetly hesitated - a bit lock down will inevitably have major consequences on the economy. So, what effect did these lockdowns have - and did the timing matter? 
 
-Make sure that you use references when they're needed and follow academic standards.
+### Spread and lockdown in different countries
+The spread in different countries, and especially also the number of deaths, appear to be very different. To gain an understanding of why this is the case, let's look into the rate that each country locked down in compared to the spread. 
+
+BOKEH 1 
+
+We see how the virus deaths exploded suddenly in US and that US clearly is on the red curve. In comparison is countries as canada currently staying at the green curve. The dashed vertical lines indicates the lockdown date for each country. We see a huge different between Denmark and Canada that makes national lockdown before any deaths has arise, and clearly are on the green curve, compared to US, UK, and Italy which all made national lochdown pretty late when above 300 deaths had happened and clearly are on the red curve. Especially the United States seem to have exploded in number of casualties. 
+
+By comparing time from first outbreak to time of lock down, we see a clear picture
+
+BOKEH 2
+
+Lockdowns seem to work. The countries that locked down the fastest had the greatest reduction and stabilization in cases. By looking a bit deeper into timing and effect of lockdown, it also becomes clear that the United States rate was by far the highest - until the lockdown. 
+
+BOKEH 3
+
+This shows that if or when a new pandemic hits, quick actions from governments and responsible actions of individuals definetly seem to add up. 
+
+### Predicting the (near) future
+Now we see that lockdowns seem like a good idea - but can we possibly predict how big the impact is going to be? 
+
+In general, predicting the future is hard - and in this case even more so. We are in an unpresedented situation, and all goverments are constantly shifting directions to limit the spread and effects. However, given the status as it is, we can get an idea of the direction we are heading in.
+
+PLOT of predicted vs actual values for country.
+
+As it can be seen, some countries are still on the rise, and some have definetlu flattened the curve. China and Italy seem to have had their hit, and the curves are starting to flatten. The same can be said for Denmark, while UK, US and Canade are sill on a rise. 
+
+BOKEH 4
+
+To understand how the pandemic will continue to spread, we have applied prediction models to the data gathered, and predicting how the spread looks the next couple of days. 
+
+### Potential reopening
+Following the lockdown and the flattening of the curves, the natural next step would be to look at when to open up again. For every day the country is closed, money is slipping out of the economies, and governments have to write big checks to keep the wheels going for companies and individuals. 
+
+To do this we can look at the true number of infected. The average time from infection to death is 17 days. This means that if the true mortality rate is 1% then if 1 person dies today was there 100 infected 17 days ago. This information can together with the avg. growth rate for COVID19 be used to give an estimate of the true number of infected in each country.
+
+FIG True Number of Infected 
+
+The charts clearly show why it would be very interstring to know the actual mortality rate. Relatively small changes is the mortality rate assumption from 3% to 1%  would mean that many many more million people would have had the infection. This is very important information to know when planning a reopening of a country like US.
+
+### Summary
+We have seen that the disease spread rapidly, with the death rate following and even increasing a bit, as the disease became pandemic. However, there is a large uncertanity regarding these numbers, and the difference between reported and true numbers might be big. 
+
+We have also discovered how lock downs are a great idea to stop the disease, and faster actions give great results. Before looking into the costs of these lock downs, let us look into the social media awareness to see how the people have reacted to this (to our generations) new phenomenon. 
+
+## Social Media Data from Twitter
+
