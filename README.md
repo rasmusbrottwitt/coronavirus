@@ -60,9 +60,20 @@ There are many possible factors of the change in mortality rate. An unknown vari
 The largest factor in the combat of the disease for now has been the massive lockdowns almost every country has done. However, some countries have deffinetly hesitated, most likely because of the consequences on the economy. So, what effect did these lockdowns have - and did the timing matter? 
 
 ### Spread and lockdown in different countries
-The spread in different countries, and especially also the number of deaths, appear to be very different. To gain an understanding of why this is the case, let's look into the rate that each country locked down in compared to the casualties. 
+Many countries started considering lockdowns early on based on recommendations from WHO. By locking the country down and distancing physically from each other, the virus would not spread as rapdily and the health care systems would be able to maintain normal function as well as having capacity for infected COVID19 patients. On the other hand, if everybody continued to live as normal, the system would be overflown by patients and not be able to treat regular diseases as well as everybody infected with COVID19. 
 
-In the following maps, the dahsed line indicates lockdown times, and its color matches the countrystats. 
+These two scenarioes have been showcased many times in different formats, here as seen in The New York Times (https://www.nytimes.com/article/flatten-curve-coronavirus.html). The scenarios are the green and red cruve respectively.
+
+<iframe 
+        src="Charts/curve.png"
+        width="900" height="500"
+        frameBorder="0"
+></iframe>
+
+
+The spread in different countries, and especially also the number of deaths, appear to be very different. To gain an understanding of why this is the case, let's look into the rate that each country locked down compared to the casualties. 
+
+In the following maps, the dahsed line indicates lockdown dates, and its color matches the countrystats. 
 
 <iframe 
         src="Charts/webpage006.html"
@@ -71,7 +82,7 @@ In the following maps, the dahsed line indicates lockdown times, and its color m
 ></iframe>
 
 
-It is seen that the virus deaths exploded suddenly in US, and that the US clearly is on the red curve. In comparison is countries as Canada currently staying at the green curve. The dashed vertical lines indicates the lockdown date for each country. We see a huge different between Denmark and Canada that makes national lockdown before any deaths has arise, and clearly are on the green curve, compared to US, UK, and Italy which all made national lochdown pretty late when above 300 deaths had happened and clearly are on the red curve. Especially the United States seem to have exploded in number of casualties. 
+It is seen that the casualties caused by the virus exploded suddenly in the US, and that the US clearly is on the red curve. In comparison is countries as Canada currently staying at the green curve. The dashed vertical lines indicates the lockdown date for each country. We see a huge different between Denmark and Canada that makes national lockdown before any deaths has arise, and clearly are on the green curve, compared to US, UK, and Italy which all made national lochdown pretty late when above 300 deaths had happened and clearly are on the red curve. Especially the United States seem to have exploded in number of casualties. 
 
 By comparing time from first death in a country to time of lock down, we see a clear picture. Denmark and Canada which both made national lockdown before first death has a much flatter curve. Below is the logaritm of the deaths used to easy the comparisson between the countries.  
 
