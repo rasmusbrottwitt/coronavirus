@@ -110,7 +110,11 @@ We have also discovered how lock downs are a great idea to stop the disease, and
 ## Social Media Data from Twitter
 We gathered 1308276 from a dataset of kaggle, with country codes, between March 12th and April 30th. It can be seen that the tweet amount peaked around mid-late march and then stabelized at a lower level in april.
 
-FIG Twitter graf 1: 
+<iframe 
+        src="Charts/webpage013.html"
+        width="900" height="500"
+        frameBorder="0"
+></iframe>
 
 By looking at a couple of potential buzz words for the awareness - "Just a flu", "Apocalypse", "Stayhome", "Economics" and "Reopen" we can get an idea of how the awareness has intensified and behaved. 
 
@@ -146,11 +150,19 @@ The US economy is a weird size, containing many variables. We will investigate g
 
 The Dow Jones index contains the 30 largest companies - and looking at the companies isolated gives us an idea of how the crisis rattles the market heavily. 
 
-DOW JONES ALLE SAMLEDE FIGUR
+<iframe 
+        src="Charts/webpage014.html"
+        width="900" height="500"
+        frameBorder="0"
+></iframe>
 
 But aggregating them is a good relfection of how the economy has behaved over time. 
 
-DOW JONES 40 YEARS
+<iframe 
+        src="Charts/webpage015.png"
+        width="900" height="500"
+        frameBorder="0"
+></iframe>
 
 Some historic moments, especially seen from a financial perspective, are remarkably clear
 
@@ -164,11 +176,18 @@ As it can be seen, the Dow Jones has grown since it was introduced in 1986, with
 
 If we some in to the recent years after the financial crisis, we can see how the Dow Jones has dropped rapidly now after several years of growth - but now has seen a rise again. 
 
-CORONA KRISE PLOT
+<iframe 
+        src="Charts/webpage016.png"
+        width="900" height="500"
+        frameBorder="0"
+></iframe>
 
 Compared to the last recent large drop in value, the Financial Crisis, we see some major differences
-
-FINANCIAL CRISIS PLOT
+<iframe 
+        src="Charts/webpage017.png"
+        width="900" height="500"
+        frameBorder="0"
+></iframe>
 
 The changes in movements here are obvious: 
 
@@ -183,7 +202,11 @@ But still - we here massive issues in the American Economy, so why are the stock
 
 A main reason is the Federal Reserve who printed a lot of money in late March to combate the drop in stocks - which resulted in the best day in Dow Jones ever value-wise, and one of the four largest relative speaking! https://www.theguardian.com/world/2020/mar/24/coronavirus-data-shows-biggest-hit-to-business-activity-since-records-began
 
-DOW JONES RELATIVE PLOT
+<iframe 
+        src="Charts/webpage018.png"
+        width="900" height="500"
+        frameBorder="0"
+></iframe>
 
 So - for now the largest companies in America are doing relatively well, because of aid from the government. 
 
@@ -199,11 +222,19 @@ Banks that the U.S. Federal Reserve has said could threaten the stability of the
 
 Plotting them out shows how big they were during the mid 2000's, and how hard the financial crisis hit them. 
 
-BANKS 1
+<iframe 
+        src="Charts/webpage019.png"
+        width="900" height="500"
+        frameBorder="0"
+></iframe>
 
 And by zooming in on 2019-now, we see that the hit was not as bad in the fear of Corona Virus. 
 
-BANKS 2
+<iframe 
+        src="Charts/webpage020.png"
+        width="900" height="500"
+        frameBorder="0"
+></iframe>
 
 The reason why is a mix of a slight change in structure for these too big to fail companies, the federal reserve printing extra money and that the banks are simply not as overvalues now as they were back in 2008. 
 
@@ -212,13 +243,21 @@ A major reason of concern for both the banks and government, but especially the 
 
 An obvious question is why would people become unemployed now, when the companies are not suffering too hard during lock down? Part of the answer is simple: many of these companies are not suffering because they lay off their employees while they are closed during the lock down. 
 
-UNEMPLOYMENT 1
+<iframe 
+        src="Charts/webpage021.png"
+        width="900" height="500"
+        frameBorder="0"
+></iframe>
 
 Looking at the unemployment rate, it seems like the highest spikes are around the financial crisis and back in the 1980's. 
 
 But zooming in on 2019-2020 shows that the most recent datapoint is just too close to the border to see
 
-UNEMPLOYMENT 2
+<iframe 
+        src="Charts/webpage022.png"
+        width="900" height="500"
+        frameBorder="0"
+></iframe>
 
 The unemployment has more than trippled from March to April, going from 4.4 to 14.2 percent of the American population. The unemployment rate has simply never been higher. 
 
