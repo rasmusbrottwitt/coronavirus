@@ -7,7 +7,10 @@ In that way, the Corona Virus is more than just a disease - it is a shift in how
 We will look at the spread of the virus itself and the fear and awareness following, to see how and why the countries have had to lock down. Following this, we will look into the American Economy and see how it has hit - and why it might be a lot different than you expect. 
 
 ## The spread of Corona Virus
-The Corona Virus started as a new disease in China, and became more and more reknown to the world as stories and images spread. After reaching Italy in February, it stared spreading to the rest of the world and was declared a pandemic in mid March. 
+The Corona Virus started as a new disease in China, and became more and more reknown to the world as stories and images spread. After reaching Italy in February, it stared spreading to the rest of the world and was declared a pandemic in mid March.
+
+In the following maps, the dahsed line indicates lockdown times, and its color matches the countrystats. 
+
 <iframe 
         src="Charts/webpage006.gif"
         width="900" height="500"
@@ -126,7 +129,7 @@ We gathered 1308276 from a dataset of kaggle, with country codes, between March 
 
 <iframe 
         src="Charts/webpage013.html"
-        width="900" height="500"
+        width="900" height="550"
         frameBorder="0"
 ></iframe>
 
@@ -136,7 +139,7 @@ We included bars to show then key events took place in the Unites States. Furthe
 
 <iframe 
         src="Charts/webpage011.png"
-        width="900" height="500"
+        width="900" height="550"
         frameBorder="0"
 ></iframe>
 
@@ -166,7 +169,7 @@ The Dow Jones index contains the 30 largest companies - and looking at the compa
 
 <iframe 
         src="Charts/webpage014.html"
-        width="900" height="500"
+        width="900" height="550"
         frameBorder="0"
 ></iframe>
 
@@ -199,7 +202,7 @@ If we some in to the recent years after the financial crisis, we can see how the
 Compared to the last recent large drop in value, the Financial Crisis, we see some major differences
 <iframe 
         src="Charts/webpage017.png"
-        width="900" height="500"
+        width="900" height="550"
         frameBorder="0"
 ></iframe>
 
@@ -218,7 +221,7 @@ A main reason is the Federal Reserve who printed a lot of money in late March to
 
 <iframe 
         src="Charts/webpage018.png"
-        width="900" height="500"
+        width="900" height="1000"
         frameBorder="0"
 ></iframe>
 
