@@ -138,7 +138,7 @@ All the information adds up to a clear story. The disease spread rapidly from Wu
 It is clear that the disease should be taken seriously, both because of the death rate and the lockdowns necessary to stop the spread. And by looking at the social media awareness, it is clear that people are very aware - and have started growing as concerned of the concequences to the economy as to the virus itself. 
 
 ## Social Media Data from Twitter
-1.308.276 tweets made between March 12th and April 30th containing country codes has been gathered. It can be seen that the awareness in europe is very high - also compared to US. By zooming into US on the interactive map is it clear that the main social media attention concerning the virus in US is along the coastlines, while central US has show little to minor awareness online. 
+As with every other global event, people started discussing everything around it as soon as it hit the news. 1.308.276 tweets made between March 12th and April 30th containing country codes have been gathered. It can be seen that the awareness in europe is very high - also compared to US. By zooming into the US on the interactive map is it clear that the main social media attention concerning the virus is along the coastlines, while central states has show little to minor awareness online. 
 
 <iframe 
         src="Charts/webpage013.html"
@@ -146,7 +146,7 @@ It is clear that the disease should be taken seriously, both because of the deat
         frameBorder="0"
 ></iframe>
 
-By looking at a couple of potential buzz words for the awareness - "Just a flu", "Apocalypse", "Stayhome", "Economics" and "Reopen" can an idea of how the awareness has intensified and behaved be formed. 
+By looking at a couple of potential buzz-words for the awareness - "Just a flu", "Apocalypse", "Stayhome", "Economics" and "Reopen"  an idea of how the awareness has intensified and behaved becomes clear. 
 
 The included bars shows the key events that took place in the Unites States. 
 
@@ -156,13 +156,15 @@ The included bars shows the key events that took place in the Unites States.
         frameBorder="0"
 ></iframe>
 
-Many interesting trends can be seen in the above chart. First of all does it seem like the closing of schools and sport leagues kick starts the american puplic COVID19 attention on twitter. 
+Many interesting trends can be seen in the above chart. First of all it seems like closing of schools and national sporting leagues kickstarts the american puplic COVID19 attention on twitter. 
 
-It can be seen that both the "just a flu"-tweets and the "Apocalypse"-tweets is peaking around this date. However since the peak has both the amount of "just a flu"-tweets and the "Apocalypse"-tweets been steadly decreasing. It certainly looks like people found out that this not is our doom as humans but neither just a basic flu. 
+It can also be seen that the tweets containing "just a flu" and  "Apocalypse" peak around this date. However since then  the amount of "just a flu" and "Apocalypse"-tweets have been steadily decreasing. It certainly looks like people found out that this not the end of human kind as we know it, neither simple a simple seasonal flu. 
 
-In general is the amount of tweets concerned about economics and preventing spread almost the same. In other words does the economics consequense of the virus get just as much attention as how to avoid the virus spread. When looking only at the "Economics"-tweets trend can it be seen that a big increase in social media attention happened the same day as US had been in lockdown for almost a month and the gonvernment made a statement with no reopening insight. This is also the date where the 'Reopen!'-tweets starts to increase. ¨
+In general the amount of tweets concerned about economics and preventing spread are almost the same. In other words the economics consequenses of lockdown gets just as much attention as how to avoid spreading the virus. 
 
-However, to focus the attention on the reactions to the economy has some extra buzzwords regaring the publics perception of the economy been added - "Unemployment", "Economy" and "Financial Crisis". 
+When looking only at the "Economics"-tweets it can be seen that a big increase in social media attention happened the same day as the US had been in lockdown for almost a month and the gonvernment made a statement claiming no intent to start reopening. This is also the date where the 'Reopen!'-tweets started to increase. 
+
+However, to get a more broad view of the shifting attention from fear of disease to fear of collaps of the american economy, another set of buzzwords are interesting to look at - specifically "Unemployment", "Economy" and "Financial Crisis". 
 
 <iframe 
         src="Charts/webpage012.png"
@@ -170,14 +172,16 @@ However, to focus the attention on the reactions to the economy has some extra b
         frameBorder="0"
 ></iframe>
 
-The analysis how a weekly trend in the 'Unemployed'-tweets. Futher investigation showed that these tweets peak the same day as the weekly official unemployment number report surfaces. This trend has been happening since few days after the lockdown officially started. Futhermore is a huge jump in tweets about economy happening the day where the government states that no reopening is insight. This clearly shows the people's high concerns with the economic situation that the lockdown causes which also often has been compared to the financial crisis in 2008. 
+The analysis shows a weekly spike in the 'Unemployed'-tweets. Futher investigation showed that these tweets peak the same day as the weekly official unemployment number report surfaces. 
 
-So - let investigate how the American Economy is behaving - for the individual, state and companies. 
+This trend has been happening since few days after the lockdown officially started. Futhermore a huge jump in tweets about economy started the day the government announced that the lockdown would continue indefinetly. This clearly shows the people's high concerns with the economic situation caused by the lockdown, and comparisons to the financial crisis in 2008 started appearing online. 
+
+But how many of these concerns are grounded in the actual state of the American economy? Have we not learned anything from the collapse in 2008 - and is the situation even comparable? An analysis of the history and structure of the different elements in the American economy and their influence on each other might give us an answer. 
 
 ## US ECONOMY
-The US economy is a weird size, containing many variables. The investigation will look into the general movements the last 40 years, especially from the largest companies, how the banks are behaving, and lastly the unemployment rate to see how the individual is affected. 
+The US economy is a complex matter, containing many intertwined variables. The investigation will look into the general movements the last 40 years, especially from the largest companies, how the banks are behaving, how money is structured and lastly how the individual is affected and vice versa. It might get a bit complex - but hang tight, the conclusion is as dramatic as it is unambiguous. 
 
-The Dow Jones index contains the 30 largest companies - and looking at the companies isolated gives us an idea of how the crisis rattles the market heavily. 
+The Dow Jones index contains the 30 largest companies (https://en.wikipedia.org/wiki/Dow_Jones_Industrial_Average) - and looking at these individually gives us an idea of how the lockdown rattled a steadily moving market suverely. 
 
 <iframe 
         src="Charts/webpage014.html"
@@ -185,7 +189,7 @@ The Dow Jones index contains the 30 largest companies - and looking at the compa
         frameBorder="0"
 ></iframe>
 
-But aggregating them is a good relfection of how the economy has behaved over time. 
+This shows how the virus - and especially the lockdown and the consequences - came as a shock to the largest private economies in America, ratteling their foundation and idea of the near future. However, this is only a snapshot of the market, showing that we went from a generally steady period in time into something crazy. Aggregating them and looking at them over the last decades shows how the economy has behaved over time, and might uncover if this is totally new territory or just a new factor. 
 
 <iframe 
         src="Charts/webpage015.png"
@@ -193,17 +197,15 @@ But aggregating them is a good relfection of how the economy has behaved over ti
         frameBorder="0"
 ></iframe>
 
-Some historic moments, especially seen from a financial perspective, are remarkably clear
+As it can be seen, the Dow Jones has grown since it was introduced in 1986. Clearly, the market has it's ups and downs, some more drastic than others. Some historic moments with great impacts on the economy are remarkably clear
 
-- The rise and burst of the IT bubble
-- The Financial Crisis 
-- Covid 19
+- The rise and burst of the IT bubble (mid 2002)
+- The Financial Crisis (mid 2008)
+- Covid 19 (present)
 
-For reference, Sars has also been annotatated to show its lesser significance on the market. 
+For reference, Sars has also been annotatated to show its lesser significance on the market. Many feared Sars would turn into a pandemic - but since it didn't, it is clear from the movements in the economy that the fear did not have an effect compared to the lockdown to stall the coronavirus. 
 
-As it can be seen, the Dow Jones has grown since it was introduced in 1986, with some smaller and larger bumps on the way. 
-
-A zoom in to the recent years after the financial crisis, show that the Dow Jones has dropped rapidly during the corona pandemic after several years of growth - but now has seen a rise again. 
+A focus on the recent years after the financial crisis, show that the Dow Jones has dropped rapidly during the corona pandemic after several years of growth - but the last weeks it has seen a rise again. 
 
 <iframe 
         src="Charts/webpage016.png"
@@ -211,25 +213,21 @@ A zoom in to the recent years after the financial crisis, show that the Dow Jone
         frameBorder="0"
 ></iframe>
 
-Compared to the last recent large drop in value, the Financial Crisis, some major differences is seen
+Compared to the previous large drop in value, the Financial Crisis, some major differences are clear
+
 <iframe 
         src="Charts/webpage017.png"
         width="900" height="550"
         frameBorder="0"
 ></iframe>
 
-The changes in movements here are obvious: 
+The financial crisis was a long period of build up, followed by months of steady decline to almost half of the peak value, and culminating with a huge drop following the collapse of the Lehman Brothers (https://en.wikipedia.org/wiki/Bankruptcy_of_Lehman_Brothers). Then, years of stabilisation and steady growth followed. 
 
-- In the financial crisis, concerns grew over time leading to a long decline followed by a sharp drop
-- With the Corona Virus, the shock was abrupt - but somehow the shock seemed to have had a lesser imidate impact. 
+On the other hand with the Corona Virus pandemic, the shock was abrupt and the market declined rapidly over a few days or weeks from 30000 billion USD to 18000 billion USD - almost a 40% drop in no time. But following this massive drop, the shock seemed to have had a lesser imidate impact - and even a massive bump up. 
 
-The pattern is clear to narrow down to a single line: 
+Basically, the situations are completely different, but both have had huge effects on the future of companies. The financial crisis was caused by a rotten economy, with fragile and fraud loan structures. Essentially, the banks had way less money than they thought, and a lot of people had mortgages they could never pay - meaning the banks had value (houses) they could not turn into money. Lots of unemployed people with no money or places to live meant troubled times ahead for companies selling - and combined with the market not having as much money as expected, the value dropped. 
 
-**The financial crisis was caused by a rotten economy, with fragile and fraud loan structures. The Corona Virus was a result of a shock. Therefore, the value of the market reflected this.**
-
-But still - The world frequently hear about massive issues in the American Economy, so why are the stocks not lower? 
-
-A main reason is the Federal Reserve who printed a lot of money in late March to combate the drop in stocks - which resulted in the best day in Dow Jones ever value-wise, and one of the four largest relative speaking! https://www.theguardian.com/world/2020/mar/24/coronavirus-data-shows-biggest-hit-to-business-activity-since-records-began
+The drop folowing the Corona Virus was a result of a shock of the incoming global lockdown and the news that people would not be buying on the market in the near future. Therefore, the value of companies fell drastically - no buying means no selling, and no selling means no money in the bank. Therefore, lots of companies have had to lay off employees and find ways to stay a float. However, as it can be seen, the value quickly went back to normal and the Dow Jones even had it's best day ever in absolute change, and top 5 relatively speaking.  
 
 <iframe 
         src="Charts/webpage018.png"
@@ -237,17 +235,17 @@ A main reason is the Federal Reserve who printed a lot of money in late March to
         frameBorder="0"
 ></iframe>
 
+The main reason is not more faith in the market or current handling of the virus - but the news that the Federal Reserve would start printing more money in late March to compensate the drop in stocks and market. (https://www.theguardian.com/world/2020/mar/24/coronavirus-data-shows-biggest-hit-to-business-activity-since-records-began)
+
 So - for now the largest companies in America are doing relatively well, because of aid from the government. 
 
-The next part will keep the focus on the Corona Crisis compared to the Financial Crisis of 2008, but shift over to the banks. 
-
 ### Banks
-It has now been investigated briefly how the stock market in general was affected. Now lets look at the big six banks in America - namely the banks noted too big to fail! 
+It has now been investigated briefly how the stock market in general was affected. However, the American Economy not only roots on private companies selling and buying, but also on banks investing, saving money and helping individuals and companies borrow money to keep the economy moving. 
 
-"Too big to fail" describes a financial institution whose collapse would cause unsavable damage to the American economy.
-The government will try to  intervene in situations where failure poses a grave risk, and save the economy from total collapse. 
+A bank is therefore responsible for much of the structure of movement of money in modern society, and if a bank is simply too intertwined with the state of the nation they are labeled too big to fail. "Too big to fail" describes a financial institution whose collapse would cause unsavable damage to the American economy, simply because so much money on different levels of society and scale are tied up by their structure (https://en.wikipedia.org/wiki/Too_big_to_fail).
+The government will try to intervene in situations where bankrupcy lures, and save the economy from total collapse. 
 
-Banks that the U.S. Federal Reserve has said could threaten the stability of the U.S. financial system are long - but this analysis has focused on the largest players. 
+The list of banks that the U.S. Federal Reserve has said could threaten the stability of the U.S. financial system are long - but this analysis has focused on some of the largest players. 
 
 Plotting them out shows how big they were during the mid 2000's, and how hard the financial crisis hit them. 
 
@@ -257,7 +255,9 @@ Plotting them out shows how big they were during the mid 2000's, and how hard th
         frameBorder="0"
 ></iframe>
 
-And by zooming in on 2019-now, we see that the hit was not as bad as feared by some for the Corona Virus. 
+Essentially, without aid from the government they would have gone bankrupt - and the United States would most likely have followed. 
+
+And by zooming in on 2019-now, we see that the hit following the devaluation of the economy caused by the lockdown was not nearly as bad as feared. 
 
 <iframe 
         src="Charts/webpage020.png"
@@ -265,22 +265,24 @@ And by zooming in on 2019-now, we see that the hit was not as bad as feared by s
         frameBorder="0"
 ></iframe>
 
-The reason why is a mix of a slight change in structure for these too big to fail companies, the federal reserve printing extra money and that the banks are simply not as overvalues now as they were back in 2008. 
+The reason why is a mix of factors: a slight change in structure for these too big to fail institutions, the federal reserve printing extra money and that the banks are simply not as overvalued now as they were back in 2008. 
+
+However - they still heavily rely on people paying their mortgages. And as mentioned, many companies have had to lay off large quantities of employees to stay afloat. As mentioned, the American economy printed extra money and have written checks to comapanies to help them stay alive - but compared to the danish model where a lot of money is direcly allocated to the individual worker throught the company (for instance, paying 30% of the sallary to workforce that were sent home instead of firing them(https://www.copcap.com/covid19-wage-compensation)) financial help in the US is simply just written out to the company to survive how they can. Also, help packages to individuals come directly from the state, in form of food or blank checks (https://www.bbc.com/news/world-us-canada-52405275).
+
+This means people are still loosing their jobs, even though the companies are getting aid to stay alive. 
 
 ## Unemployment
 A major reason of concern for both the banks and government, but especially the individual is the unemployment rate. Part of the initial reason for the collapse in 2008 was that people were not able to pay their mortgages - and the largest reason for people not being able to pay their rent is being unemployed.  
 
-An obvious question is why would people become unemployed now, when the companies are not suffering too hard during lock down? Part of the answer is simple: many of these companies are not suffering because they lay off their employees while they are closed during the lock down. 
+A look at the unemployment rate shows spikes have happened over time. Especially in the mid 80s and the aforementioned Financial Crisis.
 
 <iframe 
         src="Charts/webpage021.png"
         width="900" height="550"
         frameBorder="0"
-></iframe>
+></iframe> 
 
-Looking at the unemployment rate, it seems like the highest spikes are around the financial crisis and back in the 1980's. 
-
-But zooming in on 2019-2020 shows that the most recent datapoint is just too close to the border to see
+But zooming in on 2019-2020 shows that the most recent datapoint is almost too close to the border to see - and higher than ever.
 
 <iframe 
         src="Charts/webpage022.png"
@@ -288,9 +290,9 @@ But zooming in on 2019-2020 shows that the most recent datapoint is just too clo
         frameBorder="0"
 ></iframe>
 
-The unemployment has more than trippled from March to April, going from 4.4 to 14.2 percent of the American population. The unemployment rate has simply never been higher. 
+The unemployment has more than trippled from March to April, going from 4.4 to 14.2 percent of the American population. The unemployment rate has simply never been higher. And as mentioned, unemployed people means trouble. No payments for banks, if the banks don't have money the companies won't have money, and if the companies don't have money they go bankrupt - and the circle continues. 
 
-This is a major concern for the American economy. 
+This is a major concern for the American economy, and probably soon more so than the virus itself. 
 
 # Conclusion
 By diving into the numbers and articles presented, there are some conclusions that can already be made: 
