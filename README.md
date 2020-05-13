@@ -29,7 +29,7 @@ The reason for the massive growth is very clear when plotting out deaths world w
 
 <iframe 
         src="Charts/webpage004.html"
-        width="900" height="500"
+        width="900" height="400"
         frameBorder="0"
 ></iframe>
 
@@ -53,7 +53,7 @@ And looking at the mortality rate on a global view, it is clear that it varies f
 
 <iframe 
         src="Charts/webpage005.html"
-        width="900" height="500"
+        width="900" height="400"
         frameBorder="0"
 ></iframe>
 
@@ -65,7 +65,7 @@ The largest factor in the combat of the disease for now has been the massive loc
 The spread in different countries, and especially also the number of deaths, appear to be very different. To gain an understanding of why this is the case, let's look into the rate that each country locked down in compared to the casualties. 
 <iframe 
         src="Charts/webpage006.html"
-        width="900" height="500"
+        width="900" height="450"
         frameBorder="0"
 ></iframe>
 
@@ -76,7 +76,7 @@ By comparing time from first outbreak to time of lock down, we see a clear pictu
 
 <iframe 
         src="Charts/webpage007.html"
-        width="900" height="500"
+        width="900" height="450"
         frameBorder="0"
 ></iframe>
 
@@ -87,7 +87,7 @@ By looking a bit deeper into timing and effect of lockdown, it also becomes clea
 
 <iframe 
         src="Charts/webpage008.html"
-        width="900" height="500"
+        width="900" height="450"
         frameBorder="0"
 ></iframe>
 
@@ -99,7 +99,7 @@ Now we see that lockdowns seem like a good idea - but can we possibly predict ho
 In general, predicting the future is hard - and in this case even more so. We are in an unpresedented situation, and all goverments are constantly shifting directions to limit the spread and effects. However, given the status as it is, we can get an idea of the direction we are heading in.
 <iframe 
         src="Charts/webpage009.html"
-        width="900" height="500"
+        width="900" height="450"
         frameBorder="0"
 ></iframe>
 
@@ -114,7 +114,7 @@ Following the lockdown and the flattening of the curves, the natural next step w
 To do this we can look at the true number of infected. The average time from infection to death is 17 days. This means that if the true mortality rate is 1% then if 1 person dies today was there 100 infected 17 days ago. This information can together with the avg. growth rate for COVID19 be used to give an estimate of the true number of infected in each country.
 <iframe 
         src="Charts/webpage010.png"
-        width="900" height="500"
+        width="900" height="400"
         frameBorder="0"
 ></iframe>
 The charts clearly show why it would be very interstring to know the actual mortality rate. Relatively small changes is the mortality rate assumption from 3% to 1%  would mean that many many more million people would have had the infection. This is very important information to know when planning a reopening of a country like US.
@@ -154,7 +154,7 @@ However, we want to focus our attention on the reaction to the economy. We have 
 
 <iframe 
         src="Charts/webpage012.png"
-        width="900" height="500"
+        width="900" height="550"
         frameBorder="0"
 ></iframe>
 
@@ -262,7 +262,7 @@ An obvious question is why would people become unemployed now, when the companie
 
 <iframe 
         src="Charts/webpage021.png"
-        width="900" height="500"
+        width="900" height="550"
         frameBorder="0"
 ></iframe>
 
@@ -272,7 +272,7 @@ But zooming in on 2019-2020 shows that the most recent datapoint is just too clo
 
 <iframe 
         src="Charts/webpage022.png"
-        width="900" height="500"
+        width="900" height="550"
         frameBorder="0"
 ></iframe>
 
