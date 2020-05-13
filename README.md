@@ -66,7 +66,7 @@ These two scenarioes have been showcased many times in different formats, here a
 
 <iframe 
         src="Charts/curve.png"
-        width="900" height="500"
+        width="900" height="400"
         frameBorder="0"
 ></iframe>
 
