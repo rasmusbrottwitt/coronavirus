@@ -82,9 +82,11 @@ In the following maps, the dahsed line indicates lockdown dates, and its color m
 ></iframe>
 
 
-It is seen that the casualties caused by the virus exploded suddenly in the US, and that the US clearly is on the red curve. In comparison is countries as Canada currently staying at the green curve. The dashed vertical lines indicates the lockdown date for each country. We see a huge different between Denmark and Canada that makes national lockdown before any deaths has arise, and clearly are on the green curve, compared to US, UK, and Italy which all made national lochdown pretty late when above 300 deaths had happened and clearly are on the red curve. Especially the United States seem to have exploded in number of casualties. 
+It is seen that the casualties caused by the virus exploded suddenly in the US, and that the US clearly is on the red curve from the before mentioned New York Times visual. In comparison, countries as Canada and Denmark currently stay close to the blue curve. The dashed vertical lines indicate the lockdown date for each country. 
 
-By comparing time from first death in a country to time of lock down, we see a clear picture. Denmark and Canada which both made national lockdown before first death has a much flatter curve. Below is the logaritm of the deaths used to easy the comparisson between the countries.  
+A quick glanse at the visual shows a trend in timing of lockdowns and the consequences here off: if lockdown happens early, fewer casuslaties occur. This matches well with the recommendations from WHO and epidemology experts. 
+
+By comparing time from first death in a country to time of lockdown, this picture is even clearer. Denmark and Canada, who both made national lockdown before first death, has a much flatter curve than those who waited. Below is a logarithmic weighted plot comparing casualty numbers of different countries.  
 
 <iframe 
         src="Charts/webpage007.html"
@@ -93,7 +95,7 @@ By comparing time from first death in a country to time of lock down, we see a c
 ></iframe>
 
 
-Lockdowns seem to work. The countries that locked down the fastest had the greatest reduction and stabilization in cases. Furthermore, it is clear that growth rate has declined following a lock down regardless of timing and strategy. By looking a bit deeper into timing and effect of lockdown, it also becomes clear that the United States rate was by far the highest - until the lockdown 24 days after first death. 
+Lockdowns seem to work. The countries that locked down the fastest had the greatest reduction and stabilization in number of cases. Furthermore, it is clear that growth rate has declined following a lockdown regardless of timing and strategy. By looking a bit deeper into timing and effect of lockdowns, it also becomes clear that the United States' rate was by far the highest - until the lockdown 24 days after first death. 
 
 <iframe 
         src="Charts/webpage008.html"
@@ -104,32 +106,36 @@ Lockdowns seem to work. The countries that locked down the fastest had the great
 This shows that if or when a new pandemic hits, quick actions from governments and responsible actions of individuals definetly seem to add up. 
 
 ### Predicting the (near) future
-It is now obvious that lockdowns seem like a good idea - but is it possibly predict how big the impact is going to be? 
+It is now obvious that lockdowns seem like a good idea - but is it possible to predict how big the impact is going to be? 
 
-In general, predicting the future is hard - and in this case even more so. The society is in an unpresedented situation, and all goverments are constantly shifting directions to limit the spread and effects. However, given the status as it is, is it possible to get an idea of the direction the different countries are heading in.
+In general, predicting the future is hard - and in this case even more so. The society is in an unpresedented situation, and all goverments are constantly shifting directions to limit the spread and effects. However, given the status as it is, is it possible to get an idea of the direction the different countries are headed in by applying math to historic and demographic data.
+
 <iframe 
         src="Charts/webpage009.html"
         width="900" height="450"
         frameBorder="0"
 ></iframe>
 
-As it can be seen, some countries are still on the rise, and some have definetly flattened the curve. China and Italy seem to have had their hit, and the curves are starting to flatten. The same can be said for Denmark, while UK, US and Canade are sill on a rise. 
+As it can be seen, some countries are still on the rise, and some have definetly flattened the curve. The predictions of the near future of casualties can be seen after the grey line indicating today. China and Italy seem to have had their hit, and the curves are starting to flatten. The same can be said for Denmark, while UK, US and Canade are sill on a rise. 
 
 ### Potential reopening
 Following the lockdown and the flattening of the curves, the natural next step would be to look at when to open up again. For every day the country is closed, money is slipping out of the economies, and governments have to write big checks to keep the wheels going for companies and individuals. 
 
-To do this is it necessary to look at the true number of infected. The average time from infection to death is 17 days. This means that if the true mortality rate is 1% then if 1 person dies today was there 100 infected 17 days ago. This information can together with the avg. growth rate for the virus be used to give an estimate of the true number of infected in each country.
+To do this is it necessary to look at the true number of infected. The average time from infection to death is 17 days. This means that if the true mortality rate is 1% then if 1 person dies today there was 100 infected 17 days ago. This information can together with the average growth rate for the virus be used to give an estimate of the true number of infected in each country.
 <iframe 
         src="Charts/webpage010.png"
-        width="900" height="400"
+        width="900" height="350"
         frameBorder="0"
 ></iframe>
-This clearly show why it would be very interstring to know the actual mortality rate. Relatively small changes is the mortality rate assumption from 3% to 1%  would mean that many many more million people would have had the infection. This is very important information to know when planning a reopening of a country like US. One thing is however for sure - the actual number of confirmed cases is in all scenarios way to low and should not be trusted blindly. 
 
-### Summary
-The disease spread rapidly, with the death rate following and even increasing a bit, as the disease became pandemic. However, there is a large uncertanity regarding these numbers, and the difference between reported and true numbers might be big. 
+This clearly shows why it would be very interesting to know the actual mortality rate. A relatively small change in the mortality rate assumption from 3% to 1% makes a huge difference in the actual number of infected. This is very important information to know when planning a reopening of a country like the US. 
 
-Lock downs are a great idea to stop the disease, and faster actions give great results. Before looking into the costs of these lock downs, will there be looked into the social media awareness to see how the people have reacted to this (to our generations) new phenomenon. 
+However, one thing is for sure - the number of confirmed cases are in all scenarios way lower than the actual amount of cases and should not be trusted blindly. 
+
+
+All the information adds up to a clear story. The disease spread rapidly from Wuhan to the rest of the world, and as the epidemic became a pandemic the mortality rate did not slow down despite our great efforts. However, lock downs are a great idea to halt the spread, and fast actions have produced great results. 
+
+It is clear that the disease should be taken seriously, both because of the death rate and the lockdowns necessary to stop the spread. And by looking at the social media awareness, it is clear that people are very aware - and have started growing as concerned of the concequences to the economy as to the virus itself. 
 
 ## Social Media Data from Twitter
 1.308.276 tweets made between March 12th and April 30th containing country codes has been gathered. It can be seen that the awareness in europe is very high - also compared to US. By zooming into US on the interactive map is it clear that the main social media attention concerning the virus in US is along the coastlines, while central US has show little to minor awareness online. 
