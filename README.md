@@ -50,7 +50,9 @@ However by diving deeper into the numbers we see another picture. Since the outb
         frameBorder="0"
 ></iframe>
 
-And looking at the mortality rate on a global view, it is clear that it varies from country to country. Hover over map to get detailed information.  
+This is howeber most likely not the actual case. Countries are not testing all individuals, and testing strategies change all the time. The most likely explanation for the large fluctuation in mortality rate is simply a change in testing strategy - for instance,  Denmark went from testing only severely ill, to more and now to random tests (https://www.yourdanishlife.dk/coronavirus-update-change-in-testing-strategy/). Denmark's curve is propably opposite of the global curve, since in a global perspective the rate between tested and deaths is propably decreasing due to the rapid growth in cases. 
+
+Looking at a world map showing the mortality rate, it is clear that it varies from country to country. Hover over map to get detailed information.  
 
 <iframe 
         src="Charts/webpage005.html"
@@ -58,7 +60,7 @@ And looking at the mortality rate on a global view, it is clear that it varies f
         frameBorder="0"
 ></iframe>
 
-There are many possible factors of the change in mortality rate. An unknown variable is testing strategy and number of tests, as well as the possibile effect of the tuberculosis vaccine which still is a mandatory vaccine in many development countries. The following article investigates this much futher. (https://www.clinicaltrialsarena.com/news/australia-bcg-vaccine-trial-covid-19/). 
+There are many possible factors of the change in mortality rate, and another large unknown variable is the possibile effect of the tuberculosis vaccine which still is a mandatory vaccine in many development countries. The following article investigates this much futher. (https://www.clinicaltrialsarena.com/news/australia-bcg-vaccine-trial-covid-19/). 
 
 The largest factor in the combat of the disease for now has been the massive lockdowns almost every country has done. However, some countries have deffinetly hesitated, most likely because of the consequences on the economy. So, what effect did these lockdowns have - and did the timing matter? 
 
