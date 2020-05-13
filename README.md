@@ -1,4 +1,5 @@
 # Covid 19 and the world 
+*Analysis and data last updated May 13th 2020*
 
 2020 has been a year that will go down in history, remembered for the COVID-19 pandemic. It is not the first or worst pandemic in world history to say the least, but it is the first time it has happened to our modern society. We have the opportunity to track the spread to a very hight level of detail, and at the same time see and uncover it's impact on all aspects of society in real time. 
 
@@ -110,6 +111,8 @@ It is now obvious that lockdowns seem like a good idea - but is it possible to p
 
 In general, predicting the future is hard - and in this case even more so. The society is in an unpresedented situation, and all goverments are constantly shifting directions to limit the spread and effects. However, given the status as it is, is it possible to get an idea of the direction the different countries are headed in by applying math to historic and demographic data.
 
+Hover over the chart to see the forecasted values. 
+
 <iframe 
         src="Charts/webpage009.html"
         width="900" height="450"
@@ -148,7 +151,7 @@ As with every other global event, people started discussing everything around it
 
 By looking at a couple of potential buzz-words for the awareness - "Just a flu", "Apocalypse", "Stayhome", "Economics" and "Reopen"  an idea of how the awareness has intensified and behaved becomes clear. 
 
-The included bars shows the key events that took place in the Unites States. 
+The included bars shows the key events that took place in the Unites States (https://en.wikipedia.org/wiki/Timeline_of_the_COVID-19_pandemic_in_the_United_States).  
 
 <iframe 
         src="Charts/webpage011.png"
@@ -182,6 +185,8 @@ But how many of these concerns are grounded in the actual state of the American 
 The US economy is a complex matter, containing many intertwined variables. The investigation will look into the general movements the last 40 years, especially from the largest companies, how the banks are behaving, how money is structured and lastly how the individual is affected and vice versa. It might get a bit complex - but hang tight, the conclusion is as dramatic as it is unambiguous. 
 
 The Dow Jones index contains the 30 largest companies (https://en.wikipedia.org/wiki/Dow_Jones_Industrial_Average) - and looking at these individually gives us an idea of how the lockdown rattled a steadily moving market suverely. 
+
+Hover over the stocks to see individual stock values.
 
 <iframe 
         src="Charts/webpage014.html"
@@ -304,3 +309,5 @@ By diving into the numbers and articles presented, there are some conclusions th
 - Underneath the wellbeing of companies, a huge unknown is bubbling: unemployment. History shows us this could result in catastrophic impacts on the nation. 
 
 However, the numbers and our first conclusion also shows that this is an ongoing pandemic and far from over. We have to learn from what we have done so far, what has happened in the past and adjust accordingly to prevent large consequences on our health, economy and wellbeing. 
+
+*for further analysis, comments and calculations visit or download our GitHub repo at the top of the page*
