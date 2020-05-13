@@ -4,7 +4,7 @@
 
 In that way, the Corona Virus is more than just a disease - it is a shift in how our world works, and has the potential to  hit the economy really hard especially. The reasoning for this is more complex - we have to understand how the virus spreads physically and psyhologically, and then look at how it has impacted the economy. 
 
-We will look at the spread of the virus itself and the fear and awareness following, to see how and why the countries have had to lock down. Following this, we will look into the American Economy and see how it has hit - and why it might be a lot different than you expect. 
+This article will look at the spread of the virus itself and the fear and awareness following, to see how and why the countries have had to lock down. Following this, will the article look into the American Economy and see how it has been hit by the virus - and why it might be a lot different than you expect. 
 
 ## The spread of Corona Virus
 The Corona Virus started as a new disease in China, and became more and more reknown to the world as stories and images spread. After reaching Italy in February, it stared spreading to the rest of the world and was declared a pandemic in mid March.
@@ -71,7 +71,7 @@ In the following maps, the dahsed line indicates lockdown times, and its color m
 ></iframe>
 
 
-We see how the virus deaths exploded suddenly in US, and that the US clearly is on the red curve. In comparison is countries as Canada currently staying at the green curve. The dashed vertical lines indicates the lockdown date for each country. We see a huge different between Denmark and Canada that makes national lockdown before any deaths has arise, and clearly are on the green curve, compared to US, UK, and Italy which all made national lochdown pretty late when above 300 deaths had happened and clearly are on the red curve. Especially the United States seem to have exploded in number of casualties. 
+It is seen that the virus deaths exploded suddenly in US, and that the US clearly is on the red curve. In comparison is countries as Canada currently staying at the green curve. The dashed vertical lines indicates the lockdown date for each country. We see a huge different between Denmark and Canada that makes national lockdown before any deaths has arise, and clearly are on the green curve, compared to US, UK, and Italy which all made national lochdown pretty late when above 300 deaths had happened and clearly are on the red curve. Especially the United States seem to have exploded in number of casualties. 
 
 By comparing time from first death in a country to time of lock down, we see a clear picture. Denmark and Canada which both made national lockdown before first death has a much flatter curve. Below is the logaritm of the deaths used to easy the comparisson between the countries.  
 
@@ -93,9 +93,9 @@ Lockdowns seem to work. The countries that locked down the fastest had the great
 This shows that if or when a new pandemic hits, quick actions from governments and responsible actions of individuals definetly seem to add up. 
 
 ### Predicting the (near) future
-Now we see that lockdowns seem like a good idea - but can we possibly predict how big the impact is going to be? 
+It is now obvious that lockdowns seem like a good idea - but is it possibly predict how big the impact is going to be? 
 
-In general, predicting the future is hard - and in this case even more so. We are in an unpresedented situation, and all goverments are constantly shifting directions to limit the spread and effects. However, given the status as it is, we can get an idea of the direction we are heading in.
+In general, predicting the future is hard - and in this case even more so. The society is in an unpresedented situation, and all goverments are constantly shifting directions to limit the spread and effects. However, given the status as it is, is it possible to get an idea of the direction the different countries are heading in.
 <iframe 
         src="Charts/webpage009.html"
         width="900" height="450"
@@ -107,7 +107,7 @@ As it can be seen, some countries are still on the rise, and some have definetly
 ### Potential reopening
 Following the lockdown and the flattening of the curves, the natural next step would be to look at when to open up again. For every day the country is closed, money is slipping out of the economies, and governments have to write big checks to keep the wheels going for companies and individuals. 
 
-To do this we can look at the true number of infected. The average time from infection to death is 17 days. This means that if the true mortality rate is 1% then if 1 person dies today was there 100 infected 17 days ago. This information can together with the avg. growth rate for the virus be used to give an estimate of the true number of infected in each country.
+To do this is it necessary to look at the true number of infected. The average time from infection to death is 17 days. This means that if the true mortality rate is 1% then if 1 person dies today was there 100 infected 17 days ago. This information can together with the avg. growth rate for the virus be used to give an estimate of the true number of infected in each country.
 <iframe 
         src="Charts/webpage010.png"
         width="900" height="400"
