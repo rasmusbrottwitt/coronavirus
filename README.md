@@ -315,5 +315,5 @@ By diving into the numbers and articles presented, there are some conclusions th
 However, the numbers and our first conclusion also shows that this is an ongoing pandemic and far from over. We have to learn from what we have done so far, what has happened in the past and adjust accordingly to prevent large consequences on our health, economy and wellbeing. 
 
 *For further analysis, comments and calculations visit or download our GitHub repo at the top of the page*
-**Explainer notebook website: https://mybinder.org/v2/gh/rasmusbrottwitt/coronavirus/master?filepath=ExplainerNotebook.ipynb**
 
+[I'm an inline-style link with title](https://mybinder.org/v2/gh/rasmusbrottwitt/coronavirus/master?filepath=ExplainerNotebook.ipynb "Explainer Notebook")
