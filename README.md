@@ -1,6 +1,8 @@
 # Covid 19 and the world 
 *Analysis and data last updated May 13th 2020*
 
+*By Kasper Emil Nielsen (s153845) and Rasmus Boldvig Rottwitt (s200348)*
+
 2020 has been a year that will go down in history, remembered for the COVID-19 pandemic. It is not the first or worst pandemic in world history to say the least, but it is the first time it has happened to our modern society. We have the opportunity to track the spread to a very hight level of detail, and at the same time see and uncover it's impact on all aspects of society in real time. 
 
 In that way, the Corona Virus is more than just a disease - it is a shift in how our world works, and has the potential to  hit the economy really hard. The reasoning for this is more complex - we have to understand how the virus' effects spread physically and psyhologically, and then look at how it has impacted the economy. 
