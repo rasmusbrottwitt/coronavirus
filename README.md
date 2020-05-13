@@ -238,7 +238,7 @@ The drop folowing the Corona Virus was a result of a shock of the incoming globa
 
 <iframe 
         src="Charts/webpage018.png"
-        width="900" height="800"
+        width="900" height="750"
         frameBorder="0"
 ></iframe>
 
@@ -312,4 +312,4 @@ By diving into the numbers and articles presented, there are some conclusions th
 
 However, the numbers and our first conclusion also shows that this is an ongoing pandemic and far from over. We have to learn from what we have done so far, what has happened in the past and adjust accordingly to prevent large consequences on our health, economy and wellbeing. 
 
-*for further analysis, comments and calculations visit or download our GitHub repo at the top of the page*
+*For further analysis, comments and calculations visit or download our GitHub repo at the top of the page*
