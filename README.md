@@ -9,15 +9,13 @@ We will look at the spread of the virus itself and the fear and awareness follow
 ## The spread of Corona Virus
 The Corona Virus started as a new disease in China, and became more and more reknown to the world as stories and images spread. After reaching Italy in February, it stared spreading to the rest of the world and was declared a pandemic in mid March.
 
-In the following maps, the dahsed line indicates lockdown times, and its color matches the countrystats. 
-
 <iframe 
         src="Charts/webpage006.gif"
         width="900" height="500"
         frameBorder="0"
 ></iframe>
 
-It's growth has been rapid ever since then. 
+It's growth has been rapid ever since then and the China-Epidemic now looks like almost nothing.
 
 <iframe 
         src="Charts/webpage001.png"
@@ -25,7 +23,7 @@ It's growth has been rapid ever since then.
         frameBorder="0"
 ></iframe>
 
-The reason for the massive growth is very clear when plotting out deaths world wide - the spread went from one country to globally, with the deathrates following. 
+The reason for the massive growth is very clear when plotting out deaths world wide - the spread went from one country to globally, with the deathrates following. Hover over the interactive map to get countrywise details or zoom in to specific places to obtain increased locally overview. 
 
 <iframe 
         src="Charts/webpage004.html"
@@ -49,7 +47,7 @@ However by diving deeper into the numbers we see another picture. Since the outb
         frameBorder="0"
 ></iframe>
 
-And looking at the mortality rate on a global view, it is clear that it varies from country to country, 
+And looking at the mortality rate on a global view, it is clear that it varies from country to country. Hover over map to get detailed information.  
 
 <iframe 
         src="Charts/webpage005.html"
@@ -57,12 +55,15 @@ And looking at the mortality rate on a global view, it is clear that it varies f
         frameBorder="0"
 ></iframe>
 
-There are many possible factors of the change in mortality rate. An unknown variable is testing strategy and number of tests, as well as the possibile effect of the tuberculosis vaccine (https://www.clinicaltrialsarena.com/news/australia-bcg-vaccine-trial-covid-19/). 
+There are many possible factors of the change in mortality rate. An unknown variable is testing strategy and number of tests, as well as the possibile effect of the tuberculosis vaccine which still is a mandatory vaccine in many develepment countries. The following article investigates this much futher. (https://www.clinicaltrialsarena.com/news/australia-bcg-vaccine-trial-covid-19/). 
 
 The largest factor in the combat of the disease for now has been the massive lockdowns almost every country has done. However, some countries have deffinetly hesitated, most likely because of the consequences on the economy. So, what effect did these lockdowns have - and did the timing matter? 
 
 ### Spread and lockdown in different countries
 The spread in different countries, and especially also the number of deaths, appear to be very different. To gain an understanding of why this is the case, let's look into the rate that each country locked down in compared to the casualties. 
+
+In the following maps, the dahsed line indicates lockdown times, and its color matches the countrystats. 
+
 <iframe 
         src="Charts/webpage006.html"
         width="900" height="450"
@@ -70,9 +71,9 @@ The spread in different countries, and especially also the number of deaths, app
 ></iframe>
 
 
-We see how the virus deaths exploded suddenly in US, and that the US clearly is on the red curve. In comparison is countries as canada currently staying at the green curve. The dashed vertical lines indicates the lockdown date for each country. We see a huge different between Denmark and Canada that makes national lockdown before any deaths has arise, and clearly are on the green curve, compared to US, UK, and Italy which all made national lochdown pretty late when above 300 deaths had happened and clearly are on the red curve. Especially the United States seem to have exploded in number of casualties. 
+We see how the virus deaths exploded suddenly in US, and that the US clearly is on the red curve. In comparison is countries as Canada currently staying at the green curve. The dashed vertical lines indicates the lockdown date for each country. We see a huge different between Denmark and Canada that makes national lockdown before any deaths has arise, and clearly are on the green curve, compared to US, UK, and Italy which all made national lochdown pretty late when above 300 deaths had happened and clearly are on the red curve. Especially the United States seem to have exploded in number of casualties. 
 
-By comparing time from first outbreak to time of lock down, we see a clear picture
+By comparing time from first death in a country to time of lock down, we see a clear picture. Denmark and Canada which both made national lockdown before first death has a much flatter curve. Below is the logaritm of the deaths used to easy the comparisson between the countries.  
 
 <iframe 
         src="Charts/webpage007.html"
@@ -81,9 +82,7 @@ By comparing time from first outbreak to time of lock down, we see a clear pictu
 ></iframe>
 
 
-Lockdowns seem to work. The countries that locked down the fastest had the greatest reduction and stabilization in cases. Furthermore, it is clear that growth rate has declined following a lock down regardless of timing and strategy. 
-
-By looking a bit deeper into timing and effect of lockdown, it also becomes clear that the United States rate was by far the highest - until the lockdown. 
+Lockdowns seem to work. The countries that locked down the fastest had the greatest reduction and stabilization in cases. Furthermore, it is clear that growth rate has declined following a lock down regardless of timing and strategy. By looking a bit deeper into timing and effect of lockdown, it also becomes clear that the United States rate was by far the highest - until the lockdown 24 days after first death. 
 
 <iframe 
         src="Charts/webpage008.html"
@@ -103,29 +102,26 @@ In general, predicting the future is hard - and in this case even more so. We ar
         frameBorder="0"
 ></iframe>
 
-As it can be seen, some countries are still on the rise, and some have definetlu flattened the curve. China and Italy seem to have had their hit, and the curves are starting to flatten. The same can be said for Denmark, while UK, US and Canade are sill on a rise. 
-
-
-To understand how the pandemic will continue to spread, we have applied prediction models to the data gathered, and predicting how the spread looks the next couple of days. 
+As it can be seen, some countries are still on the rise, and some have definetly flattened the curve. China and Italy seem to have had their hit, and the curves are starting to flatten. The same can be said for Denmark, while UK, US and Canade are sill on a rise. 
 
 ### Potential reopening
 Following the lockdown and the flattening of the curves, the natural next step would be to look at when to open up again. For every day the country is closed, money is slipping out of the economies, and governments have to write big checks to keep the wheels going for companies and individuals. 
 
-To do this we can look at the true number of infected. The average time from infection to death is 17 days. This means that if the true mortality rate is 1% then if 1 person dies today was there 100 infected 17 days ago. This information can together with the avg. growth rate for COVID19 be used to give an estimate of the true number of infected in each country.
+To do this we can look at the true number of infected. The average time from infection to death is 17 days. This means that if the true mortality rate is 1% then if 1 person dies today was there 100 infected 17 days ago. This information can together with the avg. growth rate for the virus be used to give an estimate of the true number of infected in each country.
 <iframe 
         src="Charts/webpage010.png"
         width="900" height="400"
         frameBorder="0"
 ></iframe>
-The charts clearly show why it would be very interstring to know the actual mortality rate. Relatively small changes is the mortality rate assumption from 3% to 1%  would mean that many many more million people would have had the infection. This is very important information to know when planning a reopening of a country like US.
+This clearly show why it would be very interstring to know the actual mortality rate. Relatively small changes is the mortality rate assumption from 3% to 1%  would mean that many many more million people would have had the infection. This is very important information to know when planning a reopening of a country like US. One thing is however for sure - the actual number of confirmed cases is in all scenarios way to low and should not be trusted blindly. 
 
 ### Summary
-We have seen that the disease spread rapidly, with the death rate following and even increasing a bit, as the disease became pandemic. However, there is a large uncertanity regarding these numbers, and the difference between reported and true numbers might be big. 
+The disease spread rapidly, with the death rate following and even increasing a bit, as the disease became pandemic. However, there is a large uncertanity regarding these numbers, and the difference between reported and true numbers might be big. 
 
-We have also discovered how lock downs are a great idea to stop the disease, and faster actions give great results. Before looking into the costs of these lock downs, let us look into the social media awareness to see how the people have reacted to this (to our generations) new phenomenon. 
+Lock downs are a great idea to stop the disease, and faster actions give great results. Before looking into the costs of these lock downs, will there be looked into the social media awareness to see how the people have reacted to this (to our generations) new phenomenon. 
 
 ## Social Media Data from Twitter
-We gathered 1308276 from a dataset of kaggle, with country codes, between March 12th and April 30th. It can be seen that the tweet amount peaked around mid-late march and then stabelized at a lower level in april.
+1.308.276 tweets made between March 12th and April 30th containing country codes has been gathered. It can be seen that the awareness in europe is very high - also compared to US. By zooming into US on the interactive map is it clear that the main social media attention concerning the virus in US is along the coastlines, while central US has show little to minor awareness online. 
 
 <iframe 
         src="Charts/webpage013.html"
@@ -133,9 +129,9 @@ We gathered 1308276 from a dataset of kaggle, with country codes, between March 
         frameBorder="0"
 ></iframe>
 
-By looking at a couple of potential buzz words for the awareness - "Just a flu", "Apocalypse", "Stayhome", "Economics" and "Reopen" we can get an idea of how the awareness has intensified and behaved. 
+By looking at a couple of potential buzz words for the awareness - "Just a flu", "Apocalypse", "Stayhome", "Economics" and "Reopen" can an idea of how the awareness has intensified and behaved be formed. 
 
-We included bars to show then key events took place in the Unites States. Furthermore 
+The included bars shows the key events that took place in the Unites States. 
 
 <iframe 
         src="Charts/webpage011.png"
@@ -143,14 +139,13 @@ We included bars to show then key events took place in the Unites States. Furthe
         frameBorder="0"
 ></iframe>
 
-Many interesting trends can be seen in the above chart. First of all does it seem like the closing of schools and sport leagues as well a leak of a pretty pessimistic secret report kick starts the american puplic COVID19 attention on twitter. 
+Many interesting trends can be seen in the above chart. First of all does it seem like the closing of schools and sport leagues kick starts the american puplic COVID19 attention on twitter. 
 
 It can be seen that both the "just a flu"-tweets and the "Apocalypse"-tweets is peaking around this date. However since the peak has both the amount of "just a flu"-tweets and the "Apocalypse"-tweets been steadly decreasing. It certainly looks like people found out that this not is our doom as humans but neither just a basic flu. 
 
 In general is the amount of tweets concerned about economics and preventing spread almost the same. In other words does the economics consequense of the virus get just as much attention as how to avoid the virus spread. When looking only at the "Economics"-tweets trend can it be seen that a big increase in social media attention happened the same day as US had been in lockdown for almost a month and the gonvernment made a statement with no reopening insight. This is also the date where the 'Reopen!'-tweets starts to increase. ¨
 
-
-However, we want to focus our attention on the reaction to the economy. We have added some extra buzzwords to look for regaring the publics perception of economy - "Unemplyment", "Economy" and "Financial Crisis". 
+However, to focus the attention on the reactions to the economy has some extra buzzwords regaring the publics perception of the economy been added - "Unemployment", "Economy" and "Financial Crisis". 
 
 <iframe 
         src="Charts/webpage012.png"
@@ -158,12 +153,12 @@ However, we want to focus our attention on the reaction to the economy. We have 
         frameBorder="0"
 ></iframe>
 
-The chart shows us a weekly trend in the 'Unemployed'-tweets. Futher investigation showed that these tweets peak the same day as the weekly official unemployment number report surfaces. This trend has been happening since few days after the lockdown officially started. Futhermore is a huge jump in tweets about economy happening the day where the government states that no reopening is insight. This clearly shows the people's high concerns with the economic situation that the lockdown causes which also often has been compared to the financial crisis in 2008. 
+The analysis how a weekly trend in the 'Unemployed'-tweets. Futher investigation showed that these tweets peak the same day as the weekly official unemployment number report surfaces. This trend has been happening since few days after the lockdown officially started. Futhermore is a huge jump in tweets about economy happening the day where the government states that no reopening is insight. This clearly shows the people's high concerns with the economic situation that the lockdown causes which also often has been compared to the financial crisis in 2008. 
 
-So - let us investigate how the American Economy is behaving - for the individual, state and companies. 
+So - let investigate how the American Economy is behaving - for the individual, state and companies. 
 
 ## US ECONOMY
-The US economy is a weird size, containing many variables. We will investigate general movements the last 40 years, especially from the largest companies, how the banks are behaving, and lastly the unemployment rate to see how the individual is affected. 
+The US economy is a weird size, containing many variables. The investigation will look into the general movements the last 40 years, especially from the largest companies, how the banks are behaving, and lastly the unemployment rate to see how the individual is affected. 
 
 The Dow Jones index contains the 30 largest companies - and looking at the companies isolated gives us an idea of how the crisis rattles the market heavily. 
 
@@ -191,7 +186,7 @@ For reference, Sars has also been annotatated to show its lesser significance on
 
 As it can be seen, the Dow Jones has grown since it was introduced in 1986, with some smaller and larger bumps on the way. 
 
-If we some in to the recent years after the financial crisis, we can see how the Dow Jones has dropped rapidly now after several years of growth - but now has seen a rise again. 
+A zoom in to the recent years after the financial crisis, show that the Dow Jones has dropped rapidly during the corona pandemic after several years of growth - but now has seen a rise again. 
 
 <iframe 
         src="Charts/webpage016.png"
@@ -199,7 +194,7 @@ If we some in to the recent years after the financial crisis, we can see how the
         frameBorder="0"
 ></iframe>
 
-Compared to the last recent large drop in value, the Financial Crisis, we see some major differences
+Compared to the last recent large drop in value, the Financial Crisis, some major differences is seen
 <iframe 
         src="Charts/webpage017.png"
         width="900" height="550"
@@ -215,7 +210,7 @@ The pattern is clear to narrow down to a single line:
 
 **The financial crisis was caused by a rotten economy, with fragile and fraud loan structures. The Corona Virus was a result of a shock. Therefore, the value of the market reflected this.**
 
-But still - we here massive issues in the American Economy, so why are the stocks not lower? 
+But still - The world frequently hear about massive issues in the American Economy, so why are the stocks not lower? 
 
 A main reason is the Federal Reserve who printed a lot of money in late March to combate the drop in stocks - which resulted in the best day in Dow Jones ever value-wise, and one of the four largest relative speaking! https://www.theguardian.com/world/2020/mar/24/coronavirus-data-shows-biggest-hit-to-business-activity-since-records-began
 
