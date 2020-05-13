@@ -1,10 +1,10 @@
 ### NICE TO DO 
-- [ ] Hjemmeside med alle grafer, gifer og billeder
+- [x] Hjemmeside med alle grafer, gifer og billeder
 - [ ] Notebook læst igennem og opdateret
-- [ ] Tjek **svar** på alle spørgsmål 
-- [ ] Referencer 
-- [ ] Screenshot af interaktive ting som ikke vil virke når han kigger det igennem
-- [ ] Clean up GitHub
+- [x] Tjek **svar** på alle spørgsmål 
+- [x] Referencer 
+- [x] Screenshot af interaktive ting som ikke vil virke når han kigger det igennem
+- [x] Clean up GitHub
 
 ### ESSENTIAL
 - [ ] Pizza
