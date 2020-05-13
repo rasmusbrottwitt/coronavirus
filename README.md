@@ -128,7 +128,11 @@ By looking at a couple of potential buzz words for the awareness - "Just a flu",
 
 We included bars to show then key events took place in the Unites States. Furthermore 
 
-US TWITTER REACTIONS PLOT
+<iframe 
+        src="webpage011.png"
+        width="900" height="500"
+        frameBorder="0"
+></iframe>
 
 Many interesting trends can be seen in the above chart. First of all does it seem like the closing of schools and sport leagues as well a leak of a pretty pessimistic secret report kick starts the american puplic COVID19 attention on twitter. 
 
@@ -139,7 +143,11 @@ In general is the amount of tweets concerned about economics and preventing spre
 
 However, we want to focus our attention on the reaction to the economy. We have added some extra buzzwords to look for regaring the publics perception of economy - "Unemplyment", "Economy" and "Financial Crisis". 
 
-US ECONOMY RELATED TWITTER REACTIONS PLOT
+<iframe 
+        src="webpage012.png"
+        width="900" height="500"
+        frameBorder="0"
+></iframe>
 
 The chart shows us a weekly trend in the 'Unemployed'-tweets. Futher investigation showed that these tweets peak the same day as the weekly official unemployment number report surfaces. This trend has been happening since few days after the lockdown officially started. Futhermore is a huge jump in tweets about economy happening the day where the government states that no reopening is insight. This clearly shows the people's high concerns with the economic situation that the lockdown causes which also often has been compared to the financial crisis in 2008. 
 
