@@ -100,7 +100,7 @@ By comparing time from first death in a country to time of lockdown, this pictur
 ></iframe>
 
 
-Lockdowns seem to work. The countries that locked down the fastest had the greatest reduction and stabilization in number of cases. Furthermore, it is clear that growth rate has declined following a lockdown regardless of timing and strategy. By looking a bit deeper into timing and effect of lockdowns, it also becomes clear that the United States' rate was by far the highest - until the lockdown 24 days after first death. 
+Lockdowns seem to work. The countries that locked down the fastest had the greatest reduction and stabilization in number of cases. Furthermore, it is clear that growth rate has declined following a lockdown regardless of timing and strategy. By looking a bit deeper into timing and effect of lockdowns, it also becomes clear that the United States' rate was by far the highest - until the lockdown 24 days after first death. That is about a week more of uncontroled spread than UK and Italy who had lockdown at the aproximately same time since first death.
 
 <iframe 
         src="Charts/webpage008.html"
