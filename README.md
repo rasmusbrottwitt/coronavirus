@@ -1,13 +1,13 @@
 # Covid 19 and the world 
 
-2020 has been a year that go down in history, remembered for the COVID-19 pandemic. It is not the first or worst pandemic in world history to say the least, but it is the first time it has happened to our modern society. We have the opportunity to track the spread to a very low detail, and at the same time see and uncover it's impact on all aspects of society. 
+2020 has been a year that will go down in history, remembered for the COVID-19 pandemic. It is not the first or worst pandemic in world history to say the least, but it is the first time it has happened to our modern society. We have the opportunity to track the spread to a very hight level of detail, and at the same time see and uncover it's impact on all aspects of society in real time. 
 
-In that way, the Corona Virus is more than just a disease - it is a shift in how our world works, and has the potential to  hit the economy really hard especially. The reasoning for this is more complex - we have to understand how the virus spreads physically and psyhologically, and then look at how it has impacted the economy. 
+In that way, the Corona Virus is more than just a disease - it is a shift in how our world works, and has the potential to  hit the economy really hard. The reasoning for this is more complex - we have to understand how the virus' effects spread physically and psyhologically, and then look at how it has impacted the economy. 
 
-This article will look at the spread of the virus itself and the fear and awareness following, to see how and why the countries have had to lock down. Following this, will the article look into the American Economy and see how it has been hit by the virus - and why it might be a lot different than you expect. 
+This article will look at the spread of the virus itself and the fear and awareness following, to see how and why the countries have had to lock down. Following this, the article will look into the American Economy and see how it has been hit by the virus on different levels - and why it might be a lot different than you expect. 
 
 ## The spread of Corona Virus
-The Corona Virus started as a new disease in China, and became more and more reknown to the world as stories and images spread. After reaching Italy in February, it stared spreading to the rest of the world and was declared a pandemic in mid March.
+The Corona Virus started as a new disease in China, and became more and more reknown to the world as stories and images from Wuhan leaked. After reaching Italy in February, it stared spreading to the rest of the world and was declared a pandemic in mid March.
 
 <iframe 
         src="Charts/webpage006.gif"
@@ -15,7 +15,7 @@ The Corona Virus started as a new disease in China, and became more and more rek
         frameBorder="0"
 ></iframe>
 
-It's growth has been rapid ever since then and the China-Epidemic now looks like almost nothing.
+It's growth has been rapid ever since then and the outbreak in China now looks like almost nothing.
 
 <iframe 
         src="Charts/webpage001.png"
@@ -23,15 +23,15 @@ It's growth has been rapid ever since then and the China-Epidemic now looks like
         frameBorder="0"
 ></iframe>
 
-The reason for the massive growth is very clear when plotting out deaths world wide - the spread went from one country to globally, with the deathrates following. Hover over the interactive map to get countrywise details or zoom in to specific places to obtain increased locally overview. 
+The reason for the massive impact and actions from the governments are very clear when plotting out deaths world wide - the spread went from one country to globally, with the deathrates following. Hover over the interactive map to get countrywise details or zoom in to specific places to obtain increased local overview. 
 
 <iframe 
         src="Charts/webpage004.html"
-        width="900" height="400"
+        width="900" height="450"
         frameBorder="0"
 ></iframe>
 
-The mortality rate appears to have been close to contant since the spread, which is clear in a logarithmic view of the relationship between confirmed cases and deaths. 
+As shown earlier, the growth is near exponential - so to gain a better picture of the spread, a logarithmic transformation has been applied to the numbers. Here, the relationship between confirmed cases and deaths, also known as the mortality rate, looks constant. 
 
 <iframe 
         src="Charts/webpage002.png"
@@ -39,7 +39,7 @@ The mortality rate appears to have been close to contant since the spread, which
         frameBorder="0"
 ></iframe>
 
-However by diving deeper into the numbers we see another picture. Since the outbreak as a Pandemic, the mortality rate has actually increased from 2-3% to around 6%. 
+However by diving deeper into the numbers we see another picture. Since the outbreak of the virus as a Pandemic, the mortality rate has actually doubled, from 3% to around 7%. 
 
 <iframe 
         src="Charts/webpage003.png"
@@ -51,11 +51,11 @@ And looking at the mortality rate on a global view, it is clear that it varies f
 
 <iframe 
         src="Charts/webpage005.html"
-        width="900" height="400"
+        width="900" height="460"
         frameBorder="0"
 ></iframe>
 
-There are many possible factors of the change in mortality rate. An unknown variable is testing strategy and number of tests, as well as the possibile effect of the tuberculosis vaccine which still is a mandatory vaccine in many develepment countries. The following article investigates this much futher. (https://www.clinicaltrialsarena.com/news/australia-bcg-vaccine-trial-covid-19/). 
+There are many possible factors of the change in mortality rate. An unknown variable is testing strategy and number of tests, as well as the possibile effect of the tuberculosis vaccine which still is a mandatory vaccine in many development countries. The following article investigates this much futher. (https://www.clinicaltrialsarena.com/news/australia-bcg-vaccine-trial-covid-19/). 
 
 The largest factor in the combat of the disease for now has been the massive lockdowns almost every country has done. However, some countries have deffinetly hesitated, most likely because of the consequences on the economy. So, what effect did these lockdowns have - and did the timing matter? 
 
