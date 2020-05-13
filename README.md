@@ -221,7 +221,7 @@ A main reason is the Federal Reserve who printed a lot of money in late March to
 
 <iframe 
         src="Charts/webpage018.png"
-        width="900" height="1000"
+        width="900" height="800"
         frameBorder="0"
 ></iframe>
 
