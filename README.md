@@ -222,15 +222,15 @@ A main reason is the Federal Reserve who printed a lot of money in late March to
 
 So - for now the largest companies in America are doing relatively well, because of aid from the government. 
 
-If we keep our focus on the Corona Crisis compared to the Financial Crisis of 2008, but shift our to the banks. 
+The next part will keep the focus on the Corona Crisis compared to the Financial Crisis of 2008, but shift over to the banks. 
 
 ### Banks
-We have now investigated briefly how the stock market in general was affected. Now let us look at the big six banks in America - namely the banks noted too big to fail! 
+It has now been investigated briefly how the stock market in general was affected. Now lets look at the big six banks in America - namely the banks noted too big to fail! 
 
 "Too big to fail" describes a financial institution whose collapse would cause unsavable damage to the American economy.
 The government will try to  intervene in situations where failure poses a grave risk, and save the economy from total collapse. 
 
-Banks that the U.S. Federal Reserve has said could threaten the stability of the U.S. financial system are long - but we have focused on the largest players. 
+Banks that the U.S. Federal Reserve has said could threaten the stability of the U.S. financial system are long - but this analysis has focused on the largest players. 
 
 Plotting them out shows how big they were during the mid 2000's, and how hard the financial crisis hit them. 
 
@@ -240,7 +240,7 @@ Plotting them out shows how big they were during the mid 2000's, and how hard th
         frameBorder="0"
 ></iframe>
 
-And by zooming in on 2019-now, we see that the hit was not as bad in the fear of Corona Virus. 
+And by zooming in on 2019-now, we see that the hit was not as bad as feared by some for the Corona Virus. 
 
 <iframe 
         src="Charts/webpage020.png"
@@ -276,7 +276,7 @@ The unemployment has more than trippled from March to April, going from 4.4 to 1
 This is a major concern for the American economy. 
 
 # Conclusion
-By diving into the numbers and articles we have presented, there are some conclusions we can already make: 
+By diving into the numbers and articles presented, there are some conclusions that can already be made: 
 
 - The virus has spread quickly and is still going on. The mortality rate is high - but maybe there are some dark numbers and unknown variables. 
 - Earlier lockdown correlates with less casualties. 
