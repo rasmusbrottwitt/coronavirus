@@ -281,4 +281,12 @@ The unemployment has more than trippled from March to April, going from 4.4 to 1
 This is a major concern for the American economy. 
 
 # Conclusion
+By diving into the numbers, there are some clear conclusions: 
 
+- The virus has spread quickly and is still going on. The mortality rate is high - but maybe there are some dark numbers and unknown variables. 
+- Earlier lockdown correlates with less casualties. 
+- The attention of the disease escelated fast, and especially concerns about the economy as soon as the American government started taking action
+- The American economy is at a glance doing well, and has even had it's best day ever, but this is mainly because of some of the tools the government are leveraging at the moment. 
+- Underneath the wellbeing of companies, a huge unknown is bubbling: unemployment. History shows us this could result in catastrophic impacts on the nation. 
+
+## References and datasets
