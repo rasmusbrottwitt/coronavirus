@@ -149,7 +149,7 @@ As with every other global event, people started discussing everything around it
 
 <iframe 
         src="Charts/webpage013.html"
-        width="900" height="550"
+        width="900" height="450"
         frameBorder="0"
 ></iframe>
 
