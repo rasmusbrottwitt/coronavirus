@@ -117,7 +117,7 @@ By looking at a couple of potential buzz words for the awareness - "Just a flu",
 We included bars to show then key events took place in the Unites States. Furthermore 
 
 <iframe 
-        src="webpage011.png"
+        src="Charts/webpage011.png"
         width="900" height="500"
         frameBorder="0"
 ></iframe>
@@ -132,7 +132,7 @@ In general is the amount of tweets concerned about economics and preventing spre
 However, we want to focus our attention on the reaction to the economy. We have added some extra buzzwords to look for regaring the publics perception of economy - "Unemplyment", "Economy" and "Financial Crisis". 
 
 <iframe 
-        src="webpage012.png"
+        src="Charts/webpage012.png"
         width="900" height="500"
         frameBorder="0"
 ></iframe>
