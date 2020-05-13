@@ -7,45 +7,56 @@ In that way, the Corona Virus is more than just a disease - it is a shift in how
 We will look at the spread of the virus itself and the fear and awareness following, to see how and why the countries have had to lock down. Following this, we will look into the American Economy and see how it has hit - and why it might be a lot different than you expect. 
 
 ## The spread of Corona Virus
-The Corona Virus started as a new disease in China, and became more and more reknown to the world as stories and images spread. After reaching Italy in February, it stared spreading to the rest of the world and was declared a pandemic in mid March. It's growth has been rapid ever since then. 
-<iframe 
-        src="Charts/webpage001.png"
-        width="900" height="500"
-        frameBorder="0"
-></iframe>
-<iframe 
-        src="Charts/webpage004.html"
-        width="900" height="500"
-        frameBorder="0"
-></iframe>
+The Corona Virus started as a new disease in China, and became more and more reknown to the world as stories and images spread. After reaching Italy in February, it stared spreading to the rest of the world and was declared a pandemic in mid March. 
 <iframe 
         src="Charts/webpage006.gif"
         width="900" height="500"
         frameBorder="0"
 ></iframe>
 
+It's growth has been rapid ever since then. 
+
+<iframe 
+        src="Charts/webpage001.png"
+        width="900" height="500"
+        frameBorder="0"
+></iframe>
+
 The reason for the massive growth is very clear when plotting out deaths world wide - the spread went from one country to globally, with the deathrates following. 
 
+<iframe 
+        src="Charts/webpage004.html"
+        width="900" height="500"
+        frameBorder="0"
+></iframe>
+
 The mortality rate appears to have been close to contant since the spread, which is clear in a logarithmic view of the relationship between confirmed cases and deaths. 
+
 <iframe 
         src="Charts/webpage002.png"
         width="900" height="500"
         frameBorder="0"
 ></iframe>
 
-However, since the outbreak as a Pandemic, the mortality rate has actually increased from 2-3% to around 6%
+However by diving deeper into the numbers we see another picture. Since the outbreak as a Pandemic, the mortality rate has actually increased from 2-3% to around 6%. 
+
 <iframe 
         src="Charts/webpage003.png"
         width="900" height="500"
         frameBorder="0"
 ></iframe>
+
+And looking at the mortality rate on a global view, it is clear that it varies from country to country, 
+
 <iframe 
         src="Charts/webpage005.html"
         width="900" height="500"
         frameBorder="0"
 ></iframe>
 
-Given the massive increase in cases and mortality rate, it makes sense on paper to lock down the world in some degree. However, some countries have deffinetly hesitated - a bit lock down will inevitably have major consequences on the economy. So, what effect did these lockdowns have - and did the timing matter? 
+There are many possible factors of the change in mortality rate. An unknown variable is testing strategy and number of tests, as well as the possibile effect of the tuberculosis vaccine (https://www.clinicaltrialsarena.com/news/australia-bcg-vaccine-trial-covid-19/). 
+
+The largest factor in the combat of the disease for now has been the massive lockdowns almost every country has done. However, some countries have deffinetly hesitated, most likely because of the consequences on the economy. So, what effect did these lockdowns have - and did the timing matter? 
 
 ### Spread and lockdown in different countries
 The spread in different countries, and especially also the number of deaths, appear to be very different. To gain an understanding of why this is the case, let's look into the rate that each country locked down in compared to the spread. 
