@@ -316,4 +316,4 @@ However, the numbers and our first conclusion also shows that this is an ongoing
 
 *For further analysis, comments and calculations visit or download our GitHub repo at the top of the page*
 
-[I'm an inline-style link with title](https://mybinder.org/v2/gh/rasmusbrottwitt/coronavirus/master?filepath=ExplainerNotebook.ipynb "Explainer Notebook")
+[Explainer Notebook](https://mybinder.org/v2/gh/rasmusbrottwitt/coronavirus/master?filepath=ExplainerNotebook.ipynb "Explainer Notebook")
