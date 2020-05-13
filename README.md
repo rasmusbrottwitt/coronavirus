@@ -7,7 +7,7 @@
 ></iframe>
 
 <iframe 
-        src="Charts/webpage001.png"
+        src="webpage001.png"
         width="900" height="500"
         frameBorder="0"
 ></iframe>
