@@ -59,31 +59,34 @@ There are many possible factors of the change in mortality rate. An unknown vari
 The largest factor in the combat of the disease for now has been the massive lockdowns almost every country has done. However, some countries have deffinetly hesitated, most likely because of the consequences on the economy. So, what effect did these lockdowns have - and did the timing matter? 
 
 ### Spread and lockdown in different countries
-The spread in different countries, and especially also the number of deaths, appear to be very different. To gain an understanding of why this is the case, let's look into the rate that each country locked down in compared to the spread. 
+The spread in different countries, and especially also the number of deaths, appear to be very different. To gain an understanding of why this is the case, let's look into the rate that each country locked down in compared to the casualties. 
 <iframe 
         src="Charts/webpage006.html"
         width="900" height="500"
         frameBorder="0"
 ></iframe>
+
+
+We see how the virus deaths exploded suddenly in US, and that the US clearly is on the red curve. In comparison is countries as canada currently staying at the green curve. The dashed vertical lines indicates the lockdown date for each country. We see a huge different between Denmark and Canada that makes national lockdown before any deaths has arise, and clearly are on the green curve, compared to US, UK, and Italy which all made national lochdown pretty late when above 300 deaths had happened and clearly are on the red curve. Especially the United States seem to have exploded in number of casualties. 
+
+By comparing time from first outbreak to time of lock down, we see a clear picture
+
 <iframe 
         src="Charts/webpage007.html"
         width="900" height="500"
         frameBorder="0"
 ></iframe>
+
+
+Lockdowns seem to work. The countries that locked down the fastest had the greatest reduction and stabilization in cases. Furthermore, it is clear that growth rate has declined following a lock down regardless of timing and strategy. 
+
+By looking a bit deeper into timing and effect of lockdown, it also becomes clear that the United States rate was by far the highest - until the lockdown. 
+
 <iframe 
         src="Charts/webpage008.html"
         width="900" height="500"
         frameBorder="0"
 ></iframe>
-
-
-We see how the virus deaths exploded suddenly in US and that US clearly is on the red curve. In comparison is countries as canada currently staying at the green curve. The dashed vertical lines indicates the lockdown date for each country. We see a huge different between Denmark and Canada that makes national lockdown before any deaths has arise, and clearly are on the green curve, compared to US, UK, and Italy which all made national lochdown pretty late when above 300 deaths had happened and clearly are on the red curve. Especially the United States seem to have exploded in number of casualties. 
-
-By comparing time from first outbreak to time of lock down, we see a clear picture
-
-
-Lockdowns seem to work. The countries that locked down the fastest had the greatest reduction and stabilization in cases. By looking a bit deeper into timing and effect of lockdown, it also becomes clear that the United States rate was by far the highest - until the lockdown. 
-
 
 This shows that if or when a new pandemic hits, quick actions from governments and responsible actions of individuals definetly seem to add up. 
 
